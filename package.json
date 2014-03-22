@@ -1,0 +1,22 @@
+{
+  "name": "gaffa-generic",
+  "author": "Kory Nunn <knunn187@gmail.com>",
+  "version": "1.0.0",
+  "main": "generic.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KoryNunn/gaffa-generic.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KoryNunn/gaffa-generic/issues"
+  },
+  "keywords": [
+    "gaffa",
+    "generic",
+    "action"
+  ],
+  "peerDependencies": {
+    "gaffa": "^1.0.0"
+  },
+  "license": "MIT"
+}
